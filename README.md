@@ -48,6 +48,9 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 Install Ruby with RubyInstaller, then open your CMD and type 'irb'
@@ -131,6 +134,9 @@ If you like this project please give it a star.
 I would like to thank My God, family, friends, teammates, and Microverse.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 📝 License <a name="license"></a>
 
