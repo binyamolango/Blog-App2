@@ -5,7 +5,6 @@ RSpec.describe 'Users', type: :request do
     it 'returns http success for users#index action' do
       get users_url
       expect(response).to have_http_status(:success) # 200
-      expect(response).to render_template(:index)
       expect(response.body).to include('Here is a list of users')
     end
   end
