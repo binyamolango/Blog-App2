@@ -14,7 +14,6 @@
   - [Install](#install)
   - [Usage](#usage)
   - [Run tests](#run-tests)
-  - [Deployment](#deployment)
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -76,21 +75,11 @@ run `bundle install`
 
 ### Usage
 
-To run the project, execute the following command:
-
-No command has existed until now.
+To run the project, execute the following command: `rails server`
 
 ### Run tests
 
-To run tests, run the following command:
-
-No tests have been created yet for this project.
-
-### Deployment
-
-You can deploy this project using:
-
-No deployment has been made yet.
+To run tests, run the following command: `rspec`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
