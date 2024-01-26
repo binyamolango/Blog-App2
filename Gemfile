@@ -77,8 +77,10 @@ gem 'dartsass-sprockets'
 
 gem 'bootstrap', '~> 5.3.2'
 
-gem 'will_paginate'
-
 gem 'devise'
 
 gem 'letter_opener'
+
+gem 'cancancan'
+
+gem 'will_paginate'
